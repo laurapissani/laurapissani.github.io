@@ -1,6 +1,4 @@
-# Hello, I am working on my site.
+# Laura Pissani
+Welcome to my personal website.
 
-## Test
-### Test 1
-Test2
-
+![favicon](favicon.ico)
