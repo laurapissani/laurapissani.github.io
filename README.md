@@ -2,8 +2,7 @@
 <h2 style="color:red; font-weight:200; margin-bottom: 0;">Postdoctoral Research Fellow</h2>
 <h3 style="color:red; font-weight:200; margin-top: 0;">
 Departments of Language Science and Technology & Computer Science<br>
-Saarland University, Saarbrücken, Germany
-</p></h3>
+Saarland University, Saarbrücken, Germany</h3>
 
 <p> I am a postdoctoral researcher at Saarland University, where I investigate how language is processed and represented in the brain. My interdisciplinary research integrates theoretical frameworks from Linguistics—particularly semantics and pragmatics—with experimental paradigms and advanced statistical modeling from Psychology and Data Science. I examine how language comprehension and production unfold in real time to inform our theoretical understanding while also contributing to practical applications.
 </p>
