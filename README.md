@@ -5,8 +5,7 @@ Departments of Language Science and Technology & Computer Science<br>
 Saarland University, Saarbrücken, Germany
 </p></h2>
 
-<p style="text-indent: 2em;">
-I am a postdoctoral researcher at Saarland University, where I investigate how language is processed and represented in the brain...
+<p> I am a postdoctoral researcher at Saarland University, where I investigate how language is processed and represented in the brain. My interdisciplinary research integrates theoretical frameworks from Linguistics—particularly semantics and pragmatics—with experimental paradigms and advanced statistical modeling from Psychology and Data Science. I examine how language comprehension and production unfold in real time to inform our theoretical understanding while also contributing to practical applications.
 </p>
 
 <p>
