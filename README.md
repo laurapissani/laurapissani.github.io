@@ -1,4 +1,4 @@
-<h1 style="color:darkslateblue;">Laura Pissani, PhD</h1>
+<h1 style="color:red;">Laura Pissani, PhD</h1>
 <p><strong>Postdoctoral Research Fellow</strong></p>
 <p>
 Departments of Language Science and Technology & Computer Science<br>
