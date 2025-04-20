@@ -1,20 +1,20 @@
-# Laura Pissani
-Welcome to my personal website.
-
-Laura Pissani, PhD
-Postdoctoral Research Fellow
-
-Departments of Language Science and Technology & Computer Science
-
+<h1 style="color:darkslateblue;">Laura Pissani, PhD</h1>
+<p><strong>Postdoctoral Research Fellow</strong></p>
+<p>
+Departments of Language Science and Technology & Computer Science<br>
 Saarland University, Saarbrücken, Germany
+</p>
 
-I am a postdoctoral researcher at Saarland University, where I investigate how language is processed and represented in the brain. My interdisciplinary research integrates theoretical frameworks from Linguistics—particularly semantics and pragmatics—with experimental paradigms and advanced statistical modeling from Psychology and Data Science. I examine how language comprehension and production unfold in real time to inform our theoretical understanding while also contributing to practical applications.
+<p style="text-indent: 2em;">
+I am a postdoctoral researcher at Saarland University, where I investigate how language is processed and represented in the brain...
+</p>
 
-📩	Email: laura.pissani@uni-saarland.de
-📍	Office: Saarland University
-	Language Science and Technology
-	Campus C7 2, Room 3.04
-	66123 Saarbrücken, Germany 
+<p>
+📩 Email: <a href="mailto:laura.pissani@uni-saarland.de">laura.pissani@uni-saarland.de</a><br>
+📍 Office: Saarland University<br>
+Language Science and Technology<br>
+Campus C7 2, Room 3.04<br>
+66123 Saarbrücken, Germany
+</p>
 
-
-![favicon](favicon.ico)
+<img src="favicon.ico" alt="favicon">
