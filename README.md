@@ -9,10 +9,10 @@ Saarland University, Saarbrücken, Germany</h3>
 </p>
 
 <div>
-📩 Email: <a href="mailto:laura.pissani@uni-saarland.de">laura.pissani@uni-saarland.de</a>
+  <span style="font-weight: 500;">📩 Email:</span> <a href="mailto:laura.pissani@uni-saarland.de">laura.pissani@uni-saarland.de</a>
 </div>
 <div>
-📍 Office: Saarland University
+  <span style="font-weight: 500;">📍 Office:</span> Saarland University
 </div>
 <div style="margin-left: 1.9cm; margin-top: 0; margin-bottom: 0;">Language Science and Technology</div>
 <div style="margin-left: 1.9cm; margin-top: 0; margin-bottom: 0;">Campus C7 2, Room 3.04</div>
