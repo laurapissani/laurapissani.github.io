@@ -1,11 +1,9 @@
-#Laura Pissani
-
 <h1 style="color:red;">Laura Pissani, PhD</h1>
-<p><strong>Postdoctoral Research Fellow</strong></p>
+<h2>style="color:red;">Postdoctoral Research Fellow
 <p>
 Departments of Language Science and Technology & Computer Science<br>
 Saarland University, Saarbrücken, Germany
-</p>
+</p></h2>
 
 <p style="text-indent: 2em;">
 I am a postdoctoral researcher at Saarland University, where I investigate how language is processed and represented in the brain...
