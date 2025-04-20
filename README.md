@@ -1,4 +1,4 @@
-[Home](#home) | [Research](#research)
+[Home](#home) | [Research](research.md)
 
 
 # Home
@@ -23,8 +23,3 @@ Saarland University, Saarbrücken, Germany</h3>
 <div style="margin-left: 1.9cm; margin-top: 0; margin-bottom: 0;">66123 Saarbrücken, Germany</div>
 
 
----
-
-# Research
-
-<p>Coming up</p>
