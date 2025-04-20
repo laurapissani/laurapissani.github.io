@@ -1,5 +1,5 @@
 <h1 style="color:red;">Laura Pissani, PhD</h1>
-<h2>style="color:red;">Postdoctoral Research Fellow
+<h2 style="color:red;">Postdoctoral Research Fellow
 <p>
 Departments of Language Science and Technology & Computer Science<br>
 Saarland University, Saarbrücken, Germany
