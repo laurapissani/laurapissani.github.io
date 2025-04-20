@@ -1,6 +1,6 @@
-<h1 style="color:red; font-size: 3em;">Laura Pissani, PhD</h1>
+<h1 style="color:red; font-size: 3em; font-weight: 400;">Laura Pissani, PhD</h1>
 <h2 style="color:red; font-weight:200; margin-bottom: 0;">Postdoctoral Research Fellow</h2>
-<h3 style="color:red; font-weight:200; margin-top: 0;">
+<h3 style="color:red; font-weight:100; margin-top: 0;">
 Departments of Language Science and Technology & Computer Science<br>
 Saarland University, Saarbrücken, Germany</h3>
 
